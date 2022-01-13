@@ -1,0 +1,13 @@
+.container {
+    background: linear-gradient(
+        90deg,
+        #3918ca,
+        #3bb7ff
+    );
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+}
