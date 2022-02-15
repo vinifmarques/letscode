@@ -6,8 +6,7 @@ import App_lifecycle from './App_lifecycle'
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <App /> */}
-    <App_lifecycle/>
+     <App /> 
   </React.StrictMode>,
   document.getElementById('root')
 )
